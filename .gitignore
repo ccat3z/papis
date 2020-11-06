@@ -98,3 +98,7 @@ ENV/
 .ropeproject
 changes
 *~
+
+# Pipenv
+Pipfile
+Pipfile.lock
